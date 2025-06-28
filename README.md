@@ -4,7 +4,7 @@ Sistema de impressão térmica direta com interface desktop nativa.
 
 ## Características
 
-- ✅ **Interface Desktop Nativa**: Aplicação Electron com UI profissional
+- ✅ **Interface Desktop Nativa**
 - 🔄 **Auto-Update**: Atualização automática via GitHub releases
 - 📡 **System Tray**: Ícone na bandeja do sistema
 - 🚀 **Auto-Start**: Inicialização automática com Windows
