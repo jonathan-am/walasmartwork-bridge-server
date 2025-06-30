@@ -2,16 +2,6 @@
 
 Sistema de impressão térmica direta com interface desktop nativa.
 
-## Características
-
-- ✅ **Interface Desktop Nativa**
-- 🔄 **Auto-Update**: Atualização automática via GitHub releases
-- 📡 **System Tray**: Ícone na bandeja do sistema
-- 🚀 **Auto-Start**: Inicialização automática com Windows
-- 🖨️ **Servidor HTTP**: API para impressão em porta 8080
-- 🔒 **Instalador Profissional**: MSI e NSIS com assinatura digital
-- 📊 **Estatísticas**: Monitoramento de impressões e uptime
-
 ## Instalação
 
 1. Baixe o instalador (.msi ou .exe) da página de releases
@@ -29,7 +19,7 @@ A aplicação salva suas configurações em:
 
 - **Sistema Operacional**: Windows 10/11 (64-bit)
 - **Porta**: 8080 (configurável)
-- **Protocolos**: HTTP, TCP Socket
+- **Protocolos**: HTTP
 - **Impressoras**: Térmicas compatíveis com ESC/POS
 
 ## Licença
